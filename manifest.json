@@ -38,8 +38,8 @@
  ],
  "theme_color": "#000000",
  "display": "fullscreen",
- "background_color": "#000000",
- "description": "Av. Padre Anchieta, 234 - Jardim, Santo André - SP",
  "start_url": "index.htm",
- "name": "Okazaki Sushi - Tour Virtual 360°"
+ "background_color": "#000000",
+ "name": "Okazaki Sushi - Tour Virtual 360°",
+ "description": "Av. Padre Anchieta, 234 - Jardim, Santo André - SP"
 }
